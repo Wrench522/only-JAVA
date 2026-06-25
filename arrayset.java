@@ -8,7 +8,7 @@ public class arrayset {
         name.add("KImani");
         name.add("Wrench");
 
-        name.set("");
+       
 
     }
 }
